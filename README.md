@@ -1,5 +1,5 @@
-# Trung Nguyen SAS Project
-
+# Trung Nguyen SAS Project 
+![Trung Nguyen SAS Project]([https://your-image-url.com/image.png](https://fr.wikipedia.org/wiki/SAS_Institute#/media/Fichier:SAS_logo_horiz.svg))
 ## Overview
 This repository contains exercises and examples related to SAS (Statistical Analysis System) and predictive modeling. The materials include exercises, summaries, and example datasets to illustrate key concepts in data analysis and modeling.
 
